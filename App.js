@@ -17,7 +17,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          contact ig: @datt2807
+          contact ig: @datt
         </a>
       </header>
     </div>
