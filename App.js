@@ -8,8 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Pham Tan Dat
-          -2993
-        
+          -52993
         </p>
         <a
           className="App-link"
